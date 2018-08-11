@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dank1302/friendFinderApp/issues"
   },
-  "homepage": "https://github.com/dank1302/friendFinderApp#readme"
+  "homepage": "https://github.com/dank1302/friendFinderApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
